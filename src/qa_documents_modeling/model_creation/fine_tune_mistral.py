@@ -17,7 +17,7 @@ from transformers import (
     TrainingArguments,
 )
 
-from src.qa_documents_modeling.modeling_configs import MistralConfigs
+from qa_documents_modeling.modeling_configs import MistralConfigs
 
 
 class MistralModel:
