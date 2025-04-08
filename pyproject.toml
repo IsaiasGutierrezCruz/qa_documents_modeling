@@ -26,6 +26,7 @@ dependencies = [
     "peft>=0.15.1",
     "ragas>=0.2.14",
     "annoy>=1.17.3",
+    "graphviz>=0.20.3",
 ]
 
 [project.scripts]
